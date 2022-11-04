@@ -1,0 +1,42 @@
+#container{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    background-color: aliceblue;
+}
+#display-container{
+    height: 16%;
+    width: 100% ;
+    border: 1px solid black;
+    background-color: rgb(216, 230, 230);
+}
+.button{
+    height: 16.3%;
+    width: 24%;
+    border: 1px solid black;
+}
+#zero{
+    width: 48.8%;
+}
+#divide{
+    background-color: #c20909;
+    
+}
+#mul{
+    background-color: #c20909;
+}
+#sub{
+    background-color: #c20909;
+}
+#sum{
+    background-color: #c20909;
+}
+#equal{
+    background-color: #c20909;
+}
